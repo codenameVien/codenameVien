@@ -1,14 +1,18 @@
 <br>
 
-<h3 align="center">🌷About me🌷</h3>
+<h3 align="center">🥺About me🥺</h3> 
+Currently studying in the Department of Information Security at Seoul Women's University since 23.03
 <div align="center">
   <!--블로그-->
   <a href="https://vien-coding.tistory.com">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </div>
-    
 
-<h3 align="center">✨ Studying ✨</h3>
+  <h4>📍Education </h4>
+  Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
+  
+
+<h3>✨ Studying ✨</h3>
 <div align= "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -22,7 +26,7 @@
 
 <br>
 
-<h3 align="center">✨Interested ✨</h3>
+<h3>✨Interested ✨</h3>
 <div align= "center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
