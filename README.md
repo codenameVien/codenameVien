@@ -15,7 +15,8 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
  
 
-<h3>✨ Studying ✨</h3>
+<h3>📍Programming Skills </h3>
+<h4>✨ Studying ✨</h4>
 <div align= "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -29,7 +30,7 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 <br>
 
-<h3>✨ Interested ✨</h3>
+<h4>✨ Interested ✨</h4>
 <div align= "center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -44,10 +45,9 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 </div>
 
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
-
-<br>
+<h4>📍languages </h4>
+  - OPIc : IM1
+   <br>
+  - TOEFL : 처참
+  <br>
+  - TOEIC : 900(을 넘기기 위한 노력 중에 있음.)
