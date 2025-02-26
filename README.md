@@ -54,7 +54,7 @@ Currently studying in the Department of Information Security at Seoul Women's Un
   <a href="https://solved.ac/vien">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vien" />
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
+<!--   <img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/> -->
 </div>
 
 
