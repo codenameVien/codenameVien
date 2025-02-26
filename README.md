@@ -52,7 +52,7 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/vien/)<img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vien)](https://solved.ac/vien/)<img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 
 </div>
