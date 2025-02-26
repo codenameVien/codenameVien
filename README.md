@@ -1,8 +1,8 @@
 <br>
 
-<h3>🥺About me🥺</h3> 
+<h3>🥺 About me 🥺</h3> 
 Currently studying in the Department of Information Security at Seoul Women's University since 23.03
-&nbsp
+<br>
 <div align="center">
   <!--블로그-->
   <a href="https://vien-coding.tistory.com">
@@ -25,7 +25,7 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 <br>
 
-<h3>✨Interested ✨</h3>
+<h3>✨ Interested ✨</h3>
 <div align= "center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
