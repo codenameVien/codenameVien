@@ -61,11 +61,3 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 
 <br>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/codenameVien"
-  width="600"
-  height="300"
-/>
-</a>
