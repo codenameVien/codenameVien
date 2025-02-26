@@ -1,16 +1,15 @@
 <br>
 
-<h3 align="center">🥺About me🥺</h3> 
+<h3>🥺About me🥺</h3> 
 Currently studying in the Department of Information Security at Seoul Women's University since 23.03
+&nbsp
 <div align="center">
   <!--블로그-->
   <a href="https://vien-coding.tistory.com">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </div>
 
-  <h4>📍Education </h4>
-  Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
-  
+ 
 
 <h3>✨ Studying ✨</h3>
 <div align= "center">
