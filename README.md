@@ -1,12 +1,11 @@
-### About me
+<br>
 
-  
-  <div style="display:flex;flex-direction:row;">
-    🛸 5th Cadet at&nbsp<img src="https://img.shields.io/badge/-333333?style=flat-square&logo=42&logoColor=white"/>
-  </div>
-<br/>
-
-
+<h3 align="center">🌷About me🌷</h3>
+<div align="center">
+  <!--블로그-->
+  <a href="https://vien-coding.tistory.com">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
+</div>
     
 
 <h3 align="center">✨ Studying ✨</h3>
@@ -21,12 +20,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
+<br>
+
 <h3 align="center">✨Interested ✨</h3>
 <div align= "center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 </div>
-    
+
+
+<br>
 
 <div align="center">
   
