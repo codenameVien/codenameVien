@@ -48,17 +48,19 @@ Currently studying in the Department of Information Security at Seoul Women's Un
   - TOEFL : 준비중
   <br>
   - TOEIC : 905
+</div>
 
-
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vien)](https://solved.ac/vien/)<img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 </div>
 
 
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/SaltySalt77"
+  src="https://render.gitanimals.org/farms/codenameVien"
   width="600"
   height="300"
 />
