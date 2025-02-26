@@ -45,9 +45,9 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 </div>
 
-<h4>📍languages </h4>
-  - OPIc : IM1
+<h3>📍languages </h3>
+  - JLPT : N3 준비중
    <br>
-  - TOEFL : 처참
+  - TOEFL : 준비중
   <br>
-  - TOEIC : 900(을 넘기기 위한 노력 중에 있음.)
+  - TOEIC : 905
