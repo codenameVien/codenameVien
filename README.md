@@ -51,14 +51,11 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 <br>
 
 <div align="center">
-  <a href="https://solved.ac/vien">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vien" />
-  </a>
-<!--   <img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/> -->
-</div>
 
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/vien/)<img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
+
+</div>
 
 
 
