@@ -1,8 +1,12 @@
 <br>
 
 <h3>🥺 About me 🥺</h3> 
+<div>
 Currently studying in the Department of Information Security at Seoul Women's University since 23.03
+</div>
+
 <br>
+
 <div align="center">
   <!--블로그-->
   <a href="https://vien-coding.tistory.com">
@@ -39,3 +43,11 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vien)](https://solved.ac/vien/)<img src="http://mazandi.herokuapp.com/api?handle=vien&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 </div>
+
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical)    
+
+<br>
