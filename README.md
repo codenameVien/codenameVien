@@ -37,8 +37,8 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 <br>
 
-<div align="center">
-  <h3>📍languages </h3>
+<div>
+  <h3>📍Languages </h3>
     - JLPT : N3 준비중
      <br>
     - TOEFL : 준비중
