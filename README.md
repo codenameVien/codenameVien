@@ -1,6 +1,4 @@
-<br>
-
-<h3>🥺 About me 🥺</h3> 
+<h3>🥺 About me </h3> 
 <div>
 Currently studying in the Department of Information Security at Seoul Women's University since 23.03
 </div>
