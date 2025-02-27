@@ -5,7 +5,7 @@ Currently studying in the Department of Information Security at Seoul Women's Un
 
 <br>
 
-<div align="center">
+<div>
   <!--블로그-->
   <a href="https://vien-coding.tistory.com">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
