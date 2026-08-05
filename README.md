@@ -44,14 +44,17 @@ Currently studying in the Department of Information Security at Seoul Women's Un
     - TOEFL : 준비중
     <br>
     - TOEIC : 905
+
+    <h3>📍Certificate </h3>
+    - CPPG
+    <br>
+    - SAA-C03 : 준비중
 </div>
 
 <br>
 
 <div align="center">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameVien&&hide_progress=true)
 
 </div>
 
